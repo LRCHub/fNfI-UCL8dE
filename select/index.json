@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ナイトループ",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-31T14:19:26.142286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイトループ",
+      "artist": "大神ミオ",
+      "has_synced": true,
+      "path": "select/01_ナイトループ_大神ミオ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトループ",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトループ_大神ミオ.txt"
+    }
+  ]
+}
